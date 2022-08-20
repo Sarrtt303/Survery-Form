@@ -1,0 +1,16 @@
+*, *::before, *::after{
+    margin: 0 auto 1.25rem;
+    padding: 0.25rem;
+}
+body{
+    background-image: url("./img/photo-1474540412665-1cdae210ae6b.jpg");  
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-align: center;
+}
+div{
+    display: block;
+}
+
+
